@@ -33,7 +33,6 @@ jobs:
       with:
         arguments: build
 
-        
 name: Java CI with Gradle
 
 on:
